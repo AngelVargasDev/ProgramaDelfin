@@ -9,3 +9,4 @@ ortools
 torch
 torchvision
 torchaudio
+openpyxl
